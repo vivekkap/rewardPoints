@@ -1,0 +1,18 @@
+
+.table > thead > tr > th{
+    background: #dddddd !important;
+    color: #000000;
+    border-right: 1px solid #dddddd;
+    border: 1px solid;
+}
+
+.table > tbody > tr > td{
+    background: #dddddd !important;
+    color: #000000;
+    border-right: 1px solid #dddddd;
+    border: 1px solid;
+}
+
+.table > thead > tr > th:last-child{
+    border-right: 1px solid #000000;
+}
